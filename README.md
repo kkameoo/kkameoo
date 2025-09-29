@@ -39,11 +39,11 @@
 - **역할**: 풀스택 개발
 - **주요 기능**: RESTful API, 관리자 대시보드
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kkameoo&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkameoo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkameoo&layout=compact&theme=radical) -->
 
 ## 🌐 Links
 - 📝 **Notion**: [노션 링크](https://your-blog.com)
