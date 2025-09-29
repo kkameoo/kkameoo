@@ -29,7 +29,7 @@
 
 ## 🔥 주요 프로젝트
 
-### [Auction](링크)
+### [Auction](https://github.com/ForgeDouble/AUCTION_BACK)
 - **기술 스택**: Spring Boot, React, TypeScript, MariaDB, Redis, RabbitMQ, Fcm
 - **날짜**: 2025.08.05 ~ 진행중
 - **인원**: 2명
