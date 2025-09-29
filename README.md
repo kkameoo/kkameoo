@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - 🔭 현재 백엔드 개발을 중심으로 풀스택 개발을 공부하고 있습니다
 - 👯 팀 프로젝트를 통해 협업 경험을 쌓고 있습니다
-- 📫 연락처: **khdg1202@naver.com**
 
 ## 🛠️ Tech Stack
 
@@ -39,14 +38,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kkameoo&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkameoo&layout=compact&theme=radical)
 
 ## 🌐 Links
-- 📝 **블로그**: [블로그 링크](https://your-blog.com)
-- 💼 **LinkedIn**: [LinkedIn 프로필](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: your.email@gmail.com
+- 📝 **Notion**: [노션 링크](https://your-blog.com)
+- 📧 **Email**: khdg1202@naver.com
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [kkameoo](https://github.com/kkameoo)
