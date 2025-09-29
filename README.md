@@ -29,26 +29,33 @@
 
 ## 🔥 주요 프로젝트
 
-### 🌟 [프로젝트: Auction](링크)
+### [Auction](링크)
 - **기술 스택**: Spring Boot, React, TypeScript, MariaDB, Redis, RabbitMQ, Fcm
 - **날짜**: 2025.08.05 ~ 진행중
-- **역할**: 백엔드 API 설계 및 구현
+- **인원**: 2명
+- **역할**: 풀스택 개발
 - **주요 기능**: 사용자 인증, 결제 시스템, 실시간 알림, 경매 시스템
 
-### 🌟 [프로젝트: Flowy](링크)  
+### [Flowy](링크)  
 - **기술 스택**: Python, FastApi, LangChain, React, TypeScript, PostgreSql
-- **역할**: 풀스택 개발
-- **주요 기능**: RESTful API, 관리자 대시보드
+- **날짜**: 2025.05.21 ~ 2025.07.04
+- **인원**: 4명
+- **역할**: 풀스택 개발, 배포
+- **주요 기능**: Ai 회의 [요약, 분석, 할 일 추출], 문서 양식 추천, 캘린더 일정 관리, Ai 챗봇  
 
-### 🌟 [프로젝트: PetWork](링크)  
-- **기술 스택**: Node.js, MongoDB, Express
-- **역할**: 풀스택 개발
-- **주요 기능**: RESTful API, 관리자 대시보드
+### [PetWork](링크)  
+- **기술 스택**: Spring Boot, React, JavaScript, Mysql, Redis
+- **날짜**: 2025.03.17 ~ 2025.04.15
+- **인원**: 3명
+- **역할**: 풀스택 개발, 배포
+- **주요 기능**: 실시간 채팅, 실시간 알림, 장소 지정, 게시판 기능
 
-### 🌟 [프로젝트: BookHitList](링크)  
-- **기술 스택**: Node.js, MongoDB, Express
-- **역할**: 풀스택 개발
-- **주요 기능**: RESTful API, 관리자 대시보드
+### [BookHitList](링크)  
+- **기술 스택**: Spring Boot, JavaScript, Mysql
+- **날짜**: 2023.07.08 ~ 2023.09.15
+- **인원**: 3명
+- **역할**: 풀스택 개발, 배포
+- **주요 기능**: 게시판 기능, 소셜 로그인, 사용자 인증 
 
 <!-- ## 📊 GitHub Stats
 
@@ -57,7 +64,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkameoo&layout=compact&theme=radical) -->
 
 ## 🌐 Links
-- <!-- 📝 **Notion**: [노션 링크](https://www.notion.so/1f1da36ee20680ddb597c0887be7c47e?v=1f1da36ee20681be9a90000cc87cfd5a&source=copy_link) -->
+<!-- - 📝 **Notion**: [노션 링크](https://www.notion.so/1f1da36ee20680ddb597c0887be7c47e?v=1f1da36ee20681be9a90000cc87cfd5a&source=copy_link) -->
 - 📧 **Email**: khdg1202@naver.com
 
 ---
