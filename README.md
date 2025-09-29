@@ -56,7 +56,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkameoo&layout=compact&theme=radical) -->
 
 ## 🌐 Links
-- 📝 **Notion**: [노션 링크](https://www.notion.so/1f1da36ee20680ddb597c0887be7c47e?v=1f1da36ee20681be9a90000cc87cfd5a&source=copy_link)
+- <!-- 📝 **Notion**: [노션 링크](https://www.notion.so/1f1da36ee20680ddb597c0887be7c47e?v=1f1da36ee20681be9a90000cc87cfd5a&source=copy_link) -->
 - 📧 **Email**: khdg1202@naver.com
 
 ---
