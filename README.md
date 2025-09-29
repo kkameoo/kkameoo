@@ -8,7 +8,8 @@
 🛠️ Tech Stack
 
 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 - 
 
 Frontend
