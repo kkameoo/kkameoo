@@ -29,12 +29,22 @@
 
 ## 🔥 주요 프로젝트
 
-### 🌟 [프로젝트명 1](링크)
+### 🌟 [프로젝트: Auction](링크)
 - **기술 스택**: Spring Boot, MySQL, React
 - **역할**: 백엔드 API 설계 및 구현, 데이터베이스 설계
 - **주요 기능**: 사용자 인증, 결제 시스템, 실시간 알림
 
-### 🌟 [프로젝트명 2](링크)  
+### 🌟 [프로젝트: Flowy](링크)  
+- **기술 스택**: Node.js, MongoDB, Express
+- **역할**: 풀스택 개발
+- **주요 기능**: RESTful API, 관리자 대시보드
+
+### 🌟 [프로젝트: PetWork](링크)  
+- **기술 스택**: Node.js, MongoDB, Express
+- **역할**: 풀스택 개발
+- **주요 기능**: RESTful API, 관리자 대시보드
+
+### 🌟 [프로젝트: BookHitList](링크)  
 - **기술 스택**: Node.js, MongoDB, Express
 - **역할**: 풀스택 개발
 - **주요 기능**: RESTful API, 관리자 대시보드
