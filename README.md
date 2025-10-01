@@ -36,21 +36,21 @@
 - **역할**: 풀스택 개발
 - **주요 기능**: 사용자 인증, 결제 시스템, 실시간 알림, 경매 시스템
 
-### [Flowy](링크)  
+### [Flowy](https://github.com/highfiveAI/flowy-pro-backend)  
 - **기술 스택**: Python, FastApi, LangChain, React, TypeScript, PostgreSql
 - **날짜**: 2025.05.21 ~ 2025.07.04
 - **인원**: 4명
 - **역할**: 풀스택 개발, 배포
 - **주요 기능**: Ai 회의 [요약, 분석, 할 일 추출], 문서 양식 추천, 캘린더 일정 관리, Ai 챗봇  
 
-### [PetWork](링크)  
+### [PetWork](https://github.com/kkameoo/PetworkSpring)
 - **기술 스택**: Spring Boot, React, JavaScript, Mysql, Redis
 - **날짜**: 2025.03.17 ~ 2025.04.15
 - **인원**: 3명
 - **역할**: 풀스택 개발, 배포
 - **주요 기능**: 실시간 채팅, 실시간 알림, 장소 지정, 게시판 기능
 
-### [BookHitList](링크)  
+### [BookHitList](https://github.com/kkameoo/BookProject)
 - **기술 스택**: Spring Boot, JavaScript, Mysql
 - **날짜**: 2023.07.08 ~ 2023.09.15
 - **인원**: 3명
