@@ -29,14 +29,14 @@
 
 ## 🔥 주요 프로젝트
 
-### [Auction](https://github.com/ForgeDouble/AUCTION_BACK)
+### [Auction](https://github.com/kkameoo/AuctionBackend)
 - **기술 스택**: Spring Boot, React, TypeScript, MariaDB, Redis, RabbitMQ, Fcm
 - **날짜**: 2025.08.05 ~ 진행중
 - **인원**: 2명
 - **역할**: 풀스택 개발
 - **주요 기능**: 사용자 인증, 결제 시스템, 실시간 알림, 경매 시스템
 
-### [Flowy](https://github.com/highfiveAI/flowy-pro-backend)  
+### [Flowy](https://github.com/kkameoo/FlowyProBackend)  
 - **기술 스택**: Python, FastApi, LangChain, React, TypeScript, PostgreSql
 - **날짜**: 2025.05.21 ~ 2025.07.04
 - **인원**: 4명
