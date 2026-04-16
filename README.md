@@ -31,7 +31,7 @@
 
 ### [Auction](https://github.com/kkameoo/AuctionBackend)
 - **기술 스택**: Spring Boot, React, TypeScript, MariaDB, Redis, RabbitMQ, Fcm
-- **날짜**: 2025.08.05 ~ 2025.02.05
+- **날짜**: 2025.08.05 ~ 2026.02.05
 - **인원**: 2명
 - **역할**: 풀스택 개발
 - **주요 기능**: 사용자 인증, 결제 시스템, 실시간 알림, 경매 시스템
